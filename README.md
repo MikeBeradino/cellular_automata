@@ -2,7 +2,14 @@
 
 
 # cellular_automata
-Wolfram cellular automata generator that will output vector files(pdf) for laser cutting. Written in Processing.
+
+Wolfram cellular automata generator that will output vector files(pdf) for laser cutting. Written in Processing. 
+
+The sketch allows for the:
+-	Selection of stroke width.
+-	Selection of 2 stroke values red/black (cutting and etching)
+-	Selection cell size.
+-	Output multiple files.
 
 
 ![box_small](https://user-images.githubusercontent.com/12630009/58217739-be085a80-7cc9-11e9-8d34-9f10e414a68c.jpg)
